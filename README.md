@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allenstoner
-- 👀 I’m interested in Python, Flask and automation.
-- 🌱 I’m currently learning Flask
+- 👀 I’m interested in Python, testing and automation.
+- 🌱 I’m currently learning TDD
 - 💞️ I’m looking to collaborate on Python based projects.
 
 
