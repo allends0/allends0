@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @allenstoner
-- 👀 I’m interested in Python, testing and automation.
-- 🌱 I’m currently learning TDD
-- 💞️ I’m looking to collaborate on Python based projects.
+- 👀 I’m interested in Go.
+
 
 
 <!---
