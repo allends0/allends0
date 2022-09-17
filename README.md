@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allenstoner
-- 👀 I’m interested in Go.
+- 👀 I’m interested in MERN and Go.
 
 
 
