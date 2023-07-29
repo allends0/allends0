@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allends0
-- 👀 I’m interested in Go, React and Pyton.
+- 👀 I’m interested in Python and Rust.
 
 
 
